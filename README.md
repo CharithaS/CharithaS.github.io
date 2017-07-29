@@ -1,7 +1,7 @@
-## About Me:
+### About Me:
 Masters Student in Computer Science and Engineering at National Institute of Technology, Karnataka. My areas of interest include Networking, Data Structures, Machine Learning. Currently working under the guidance of Dr.Shashidhar G. Koolagudi, in the area of Text Summarisation. More about me can be found in my [resume](http://google.com) 
 
-## Projects:
+### Projects:
 - **Implementation of Tcp Low Priority in ns-3:**
 
   Tcp Low Priority is a Tcp variant for low priority data transfer in which the low priority data utilises only the excess bandwidth.
