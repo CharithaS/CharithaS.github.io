@@ -1,7 +1,7 @@
 ### About Me:
 Masters Student in Computer Science and Engineering at National Institute of Technology, Karnataka. My areas of interest include Networking, Data Structures, Machine Learning. Currently working under the guidance of Dr.Shashidhar G. Koolagudi, in the area of Text Summarisation. More about me can be found in my [resume](http://google.com) 
 
-### Internship:
+### Internship at NIT Karnataka:
 - **Predicting Relevant News Events for Timeline Summaries using Supervised Machine Learning Technique**
 
   Built an automated text summarizer for generating timeline summaries of news articles using SVM and Linear Regression.
@@ -18,6 +18,12 @@ Masters Student in Computer Science and Engineering at National Institute of Tec
 - **Implementation of AOMDV routing protocol in ns-3:**
 
   Currently working on this project on AOMDV routing protocol in ns-3. Ad hoc On-Demand Multipath Distance Vector is a routing protocol which computes multiple paths  from a source to a destination during route discovery phase. It is designed for highly dynamic ad hoc networks.
+
+- **Implementation of Modified Decision Based Median Filter for Impulse Noise Removal:**
+
+  Median Filter is used to remove noise from corrupted images. This project implemented a modified median filter which
+gave better performance compared to basic median filter and extended by implementing a non local median filter based on
+the concept of non local means.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
