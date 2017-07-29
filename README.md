@@ -2,7 +2,7 @@
 Masters Student in Computer Science and Engineering at National Institute of Technology, Karnataka. My areas of interest include Networking, Data Structures, Machine Learning. Currently working under the guidance of Dr.Shashidhar G. Koolagudi, in the area of Text Summarisation. More about me can be found in my [resume](http://google.com) 
 
 ### Internship at NIT Karnataka:
-- _**Predicting Relevant News Events for Timeline Summaries using Supervised Machine Learning Technique**_
+- _**Predicting Relevant News Events for Timeline Summaries using Supervised Machine Learning Technique:**_
 
   Built an automated text summarizer for generating timeline summaries of news articles using SVM and Linear Regression.
 
@@ -26,17 +26,7 @@ gave better performance compared to basic median filter and extended by implemen
 the concept of non local means.
 
 
-**Bold** and _Italic_ and `Code` text
+### Contact:
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CharithaS/CharithaS.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [LinkedIn](https://help.github.com/categories/github-pages-basics/)
+- [Github](https://help.github.com/CharithaS)
