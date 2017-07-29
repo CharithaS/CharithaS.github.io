@@ -1,8 +1,5 @@
-## Welcome
-
-You can use the [editor on GitHub](https://github.com/CharithaS/CharithaS.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me:
+Masters Student in Computer Science and Engineering at National Institute of Technology, Karnataka. My areas of interest include Networking, Data Structures, Machine Learning. More about me can be found in my [resume](http://google.com) 
 
 ### Markdown
 
