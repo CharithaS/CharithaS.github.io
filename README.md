@@ -1,6 +1,11 @@
 ### About Me:
 Masters Student in Computer Science and Engineering at National Institute of Technology, Karnataka. My areas of interest include Networking, Data Structures, Machine Learning. Currently working under the guidance of Dr.Shashidhar G. Koolagudi, in the area of Text Summarisation. More about me can be found in my [resume](http://google.com) 
 
+### Internship:
+- **Predicting Relevant News Events for Timeline Summaries using Supervised Machine Learning Technique**
+
+  Built an automated text summarizer for generating timeline summaries of news articles using SVM and Linear Regression.
+
 ### Projects:
 - **Implementation of Tcp Low Priority in ns-3:**
 
