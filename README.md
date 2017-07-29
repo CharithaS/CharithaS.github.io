@@ -1,7 +1,18 @@
 ## About Me:
-Masters Student in Computer Science and Engineering at National Institute of Technology, Karnataka. My areas of interest include Networking, Data Structures, Machine Learning. More about me can be found in my [resume](http://google.com) 
+Masters Student in Computer Science and Engineering at National Institute of Technology, Karnataka. My areas of interest include Networking, Data Structures, Machine Learning. Currently working under the guidance of Dr.Shashidhar G. Koolagudi, in the area of Text Summarisation. More about me can be found in my [resume](http://google.com) 
 
-### Markdown
+## Projects:
+- **Implementation of Tcp Low Priority in ns-3:**
+
+  Tcp Low Priority is a Tcp variant for low priority data transfer in which the low priority data utilises only the excess bandwidth.
+
+- **Implementation of Load/Delay Controller in ns-3:** 
+
+  Load/Delay Controllers are a class of Active Queue Management Algorithms which take into account both the load factor (ratio of packet arrival rate to the packet drain rate) and the queuing delay metric for drop probability calculation.  
+
+- **Implementation of AOMDV routing protocol in ns-3:**
+
+  Currently working on this project on AOMDV routing protocol in ns-3. Ad hoc On-Demand Multipath Distance Vector is a routing protocol which computes multiple paths  from a source to a destination during route discovery phase. It is designed for highly dynamic ad hoc networks.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
