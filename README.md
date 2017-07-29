@@ -28,8 +28,8 @@ the concept of non local means.
 
 ### Contact:
 
-- [LinkedIn](https://help.github.com/categories/github-pages-basics/)
+- [LinkedIn](https://www.linkedin.com/in/charitha-sangaraju-16043286/)
 
-- [Github](https://help.github.com/CharithaS)
+- [Github](https://github.com/CharithaS)
 
 - [Facebook](https://www.facebook.com/charitha.sangaraju)
