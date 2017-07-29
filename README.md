@@ -11,7 +11,7 @@ Masters Student in Computer Science and Engineering at National Institute of Tec
 
   Tcp Low Priority is a Tcp variant for low priority data transfer in which the low priority data utilises only the excess bandwidth.
 
-- _**Implementation of Load/Delay Controller in ns-3:** _
+- _**Implementation of Load/Delay Controller in ns-3:**_
 
   Load/Delay Controllers are a class of Active Queue Management Algorithms which take into account both the load factor (ratio of packet arrival rate to the packet drain rate) and the queuing delay metric for drop probability calculation.  
 
@@ -29,4 +29,7 @@ the concept of non local means.
 ### Contact:
 
 - [LinkedIn](https://help.github.com/categories/github-pages-basics/)
+
 - [Github](https://help.github.com/CharithaS)
+
+- [Facebook](https://www.facebook.com/charitha.sangaraju)
