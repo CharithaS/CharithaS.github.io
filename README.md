@@ -26,7 +26,7 @@ gave better performance compared to basic median filter and extended by implemen
 the concept of non local means.
 
 
-### Contact:
+### Contact Me At:
 
 - [LinkedIn](https://www.linkedin.com/in/charitha-sangaraju-16043286/)
 
