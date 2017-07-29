@@ -1,12 +1,12 @@
-### About Me:
+### _About Me_:
 Masters Student in Computer Science and Engineering at National Institute of Technology, Karnataka. My areas of interest include Networking, Data Structures, Machine Learning. Currently working under the guidance of Dr.Shashidhar G. Koolagudi, in the area of Text Summarisation. More about me can be found in my [resume](http://google.com) 
 
-### Internship at NIT Karnataka:
+### _Internship at NIT Karnataka_:
 - **Predicting Relevant News Events for Timeline Summaries using Supervised Machine Learning Technique**
 
   Built an automated text summarizer for generating timeline summaries of news articles using SVM and Linear Regression.
 
-### Projects:
+### _Projects_:
 - **Implementation of Tcp Low Priority in ns-3:**
 
   Tcp Low Priority is a Tcp variant for low priority data transfer in which the low priority data utilises only the excess bandwidth.
@@ -25,20 +25,6 @@ Masters Student in Computer Science and Engineering at National Institute of Tec
 gave better performance compared to basic median filter and extended by implementing a non local median filter based on
 the concept of non local means.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
