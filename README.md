@@ -1,25 +1,25 @@
-### _About Me_:
+### About Me:
 Masters Student in Computer Science and Engineering at National Institute of Technology, Karnataka. My areas of interest include Networking, Data Structures, Machine Learning. Currently working under the guidance of Dr.Shashidhar G. Koolagudi, in the area of Text Summarisation. More about me can be found in my [resume](http://google.com) 
 
-### _Internship at NIT Karnataka_:
-- **Predicting Relevant News Events for Timeline Summaries using Supervised Machine Learning Technique**
+### Internship at NIT Karnataka:
+- _**Predicting Relevant News Events for Timeline Summaries using Supervised Machine Learning Technique**_
 
   Built an automated text summarizer for generating timeline summaries of news articles using SVM and Linear Regression.
 
-### _Projects_:
-- **Implementation of Tcp Low Priority in ns-3:**
+### Projects:
+- _**Implementation of Tcp Low Priority in ns-3:**_
 
   Tcp Low Priority is a Tcp variant for low priority data transfer in which the low priority data utilises only the excess bandwidth.
 
-- **Implementation of Load/Delay Controller in ns-3:** 
+- _**Implementation of Load/Delay Controller in ns-3:** _
 
   Load/Delay Controllers are a class of Active Queue Management Algorithms which take into account both the load factor (ratio of packet arrival rate to the packet drain rate) and the queuing delay metric for drop probability calculation.  
 
-- **Implementation of AOMDV routing protocol in ns-3:**
+- _**Implementation of AOMDV routing protocol in ns-3:**_
 
   Currently working on this project on AOMDV routing protocol in ns-3. Ad hoc On-Demand Multipath Distance Vector is a routing protocol which computes multiple paths  from a source to a destination during route discovery phase. It is designed for highly dynamic ad hoc networks.
 
-- **Implementation of Modified Decision Based Median Filter for Impulse Noise Removal:**
+- _**Implementation of Modified Decision Based Median Filter for Impulse Noise Removal:**_
 
   Median Filter is used to remove noise from corrupted images. This project implemented a modified median filter which
 gave better performance compared to basic median filter and extended by implementing a non local median filter based on
