@@ -1,5 +1,5 @@
 ### About Me:
-- Working as Software Engineer for Dell EMC in Storage Area Network. More about me can be found in my [resume](https://github.com/CharithaS/CharithaS.github.io/blob/master/CharithaResume.pdf) 
+- Working as Software Engineer for Dell EMC in Storage Area Network. More about me can be found in my [resume](https://github.com/CharithaS/CharithaS.github.io/blob/master/CharithaResume-Updated.pdf) 
 
 ### Internship at NIT Karnataka:
 - _**Predicting Relevant News Events for Timeline Summaries using Supervised Machine Learning Technique:**_
